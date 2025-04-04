@@ -1,9 +1,5 @@
-![image](https://github.com/user-attachments/assets/05ef285c-03fc-4c15-b1db-c8836d67dd1b)<h1 align="center">Hi 👋, I'm Vatsalya</h1>
+<h1 align="center">Hi 👋, I'm Vatsalya</h1>
 <h3 align="center">A passionate Java Full Stack Developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalya45&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalya45" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsalya45" alt="vatsalya45" /></a> </p>
 
 - 🌱 I’m currently learning **Spring and ReactJs**
 
@@ -11,7 +7,7 @@
 
 - 📫 How to reach me **vatsalyas108@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Connect with me</h5>
 <p align="left">
 </p>
 
@@ -21,3 +17,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalya45&show_icons=true&locale=en&layout=compact" alt="vatsalya45" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalya45&show_icons=true&locale=en" alt="vatsalya45" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalya45&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalya45" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsalya45" alt="vatsalya45" /></a> </p>
