@@ -16,9 +16,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vatsalya45&show_icons=true&locale=en&layout=compact" alt="vatsalya45" /></p>
 
+<!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vatsalya45&show_icons=true&locale=en" alt="vatsalya45" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vatsalya45&label=Profile%20views&color=0e75b6&style=flat" alt="vatsalya45" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsalya45" alt="vatsalya45" /></a> </p> 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vatsalya45" alt="vatsalya45" /></a> </p>  -->
 
 
